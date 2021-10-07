@@ -1,0 +1,9 @@
+C:\Users\user\source\repos\MyCustomArithmeticLibrary\MyCustomArithmeticLibrary\bin\Debug\netstandard2.0\MyCustomArithmeticLibrary.deps.json
+C:\Users\user\source\repos\MyCustomArithmeticLibrary\MyCustomArithmeticLibrary\bin\Debug\netstandard2.0\MyCustomArithmeticLibrary.dll
+C:\Users\user\source\repos\MyCustomArithmeticLibrary\MyCustomArithmeticLibrary\bin\Debug\netstandard2.0\MyCustomArithmeticLibrary.pdb
+C:\Users\user\source\repos\MyCustomArithmeticLibrary\MyCustomArithmeticLibrary\obj\Debug\netstandard2.0\MyCustomArithmeticLibrary.csprojAssemblyReference.cache
+C:\Users\user\source\repos\MyCustomArithmeticLibrary\MyCustomArithmeticLibrary\obj\Debug\netstandard2.0\MyCustomArithmeticLibrary.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\MyCustomArithmeticLibrary\MyCustomArithmeticLibrary\obj\Debug\netstandard2.0\MyCustomArithmeticLibrary.AssemblyInfo.cs
+C:\Users\user\source\repos\MyCustomArithmeticLibrary\MyCustomArithmeticLibrary\obj\Debug\netstandard2.0\MyCustomArithmeticLibrary.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\MyCustomArithmeticLibrary\MyCustomArithmeticLibrary\obj\Debug\netstandard2.0\MyCustomArithmeticLibrary.dll
+C:\Users\user\source\repos\MyCustomArithmeticLibrary\MyCustomArithmeticLibrary\obj\Debug\netstandard2.0\MyCustomArithmeticLibrary.pdb
